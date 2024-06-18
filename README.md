@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egavazzi&show_icons=true&theme=dark)](https://github.com/egavazzi/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egavazzi&theme=dark) 
  
@@ -7,3 +6,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egavazzi&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egavazzi&theme=dark&utcOffset=0) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egavazzi&show_icons=true&theme=dark)](https://github.com/egavazzi/github-readme-stats)
