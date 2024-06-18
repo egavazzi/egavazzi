@@ -12,6 +12,14 @@
 
 </div>
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egavazzi)](https://github.com/egavazzi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egavazzi&layout=donut)](https://github.com/egavazzi/github-readme-stats)
+
+
 <!--
 [![My github stats](https://github-readme-stats.vercel.app/api?username=egavazzi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egavazzi&theme=dark)
