@@ -1,10 +1,3 @@
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egavazzi&theme=dark) 
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egavazzi&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egavazzi&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egavazzi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egavazzi&theme=dark&utcOffset=2) 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egavazzi&show_icons=true&theme=dark)](https://github.com/egavazzi/github-readme-stats)
+[![](https://raw.githubusercontent.com/egavazzi/egavazzi/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/egavazzi/egavazzi/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/egavazzi/egavazzi/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/egavazzi/egavazzi/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/egavazzi/egavazzi/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
